@@ -1,6 +1,5 @@
-# 💬 udp-chat-java
-
-Chat multiusuario en Java usando UDP con soporte para mensajes broadcast y privados. Incluye servidor central y múltiples clientes con interfaz gráfica Swing.
+# 💬 app-udp
+App multiusuario en Java usando UDP con soporte para mensajes broadcast y privados. Incluye servidor central y múltiples clientes con interfaz gráfica Swing.
 
 ---
 
