@@ -141,10 +141,18 @@ java -cp out org.vinni.cliente.gui.PrincipalCli
 
 ## 👤 Autor
 
-**Vinni** — 2024
+**Vinni** — 2024 | **Nathalie Pinzón** - 2026
 
 ---
 
 ## 📄 Licencia
 
-MIT License — libre para usar, modificar y distribuir.
+Este proyecto está licenciado bajo GNU General Public License v3.0 (GPL v3).
+
+Esto significa que:
+- Puedes usar, estudiar y modificar el código libremente.
+- Si distribuyes versiones modificadas, deben hacerse bajo la misma licencia GPL v3.
+- El código fuente siempre debe estar disponible para quien reciba el programa.
+
+Este proyecto es una mejora sustancial sobre una base académica preexistente.
+Ver el texto completo en: https://www.gnu.org/licenses/gpl-3.0.html
