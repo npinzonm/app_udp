@@ -26,7 +26,7 @@ import java.util.logging.Logger;
  *   DIR_RESP:ip:puerto       → Respuesta a DIRECTORIO
  *   IPS_RESP:nom:puerto,...  → Respuesta a LISTA_IPS
  *
- * Author: Vinni 2024
+ * Author: Vinni 2024 | Nathalie Pinzón 2026
  */
 public class MiDatagrama {
 
